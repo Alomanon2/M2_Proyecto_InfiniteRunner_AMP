@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: a14f2bb182e6e974b8eb468684d92332
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coins-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 332
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc1835a8f6f5c84eb074a4aba6c3700
+      internalID: 2004165995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 332
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c9d21cae62b6498fe4fa9f0bd5245
+      internalID: -150754269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 332
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6686f6c617c2640b67d2173e302b9d
+      internalID: 2064905634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 332
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a887cbaee4d68184f84e76ce626bef0d
+      internalID: 1120284305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 332
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b929213d784bdd84c95fdb8b86d87121
+      internalID: 1262744956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 332
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974b17ec322dfd48b98c8b5fd5d2512
+      internalID: -599284923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 332
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f61e66715cdb8e4a935232b16c50a00
+      internalID: -1955969271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 332
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fb9f69803cf6745b378aa9de03c289
+      internalID: -1926942073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 332
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01e60354b79dac44a4079af474ce3b2
+      internalID: 523967767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 332
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bbbb1293f2b114eb4bb89f86436e5e
+      internalID: 281254233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 271
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85148c5c19cee0947bd5d19df0234927
+      internalID: 136636277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 271
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d14b47be5487f4183dac151b7eb2fd
+      internalID: 1379765452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 271
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a73377b948f04d9036828ea7a3d45
+      internalID: -611636647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 271
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876dc79a067ed034393028066a7217a7
+      internalID: 1092848169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 271
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64901a7cba55165428cf747fc4e4f283
+      internalID: -910507189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 271
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ea683d3e446544092e2084afbf1d40
+      internalID: 700021324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 271
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ce66ee936a8a84f852451f5926dda8
+      internalID: 1370166096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 271
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8018a71494c934cb6201e65e2edb3f
+      internalID: -1293546770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 271
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440b51a4703514548bc798b6aa954bbb
+      internalID: 1841513225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 271
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46b7fc99dcf1ab488c13901a5410fab
+      internalID: 623044676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 211
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d25688adce6a345a172af054cff1ba
+      internalID: -1969048938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 211
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025872d8c95387744bcd55ca15e80152
+      internalID: 389414665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 211
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb581d177c191e14493b7b5ef7cebf20
+      internalID: -1882399264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 211
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deff2ce84dc52e64c814384edf5e4a53
+      internalID: 630539852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 211
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f0cb94a5cecaa4cb1d039503a9e990
+      internalID: 731426489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 211
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a3c8a3c6271224990fad89704365fa
+      internalID: -1125972585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 211
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5835596104c9a44da46c9f67ea66887
+      internalID: 1618178649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 211
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07408abbdd5fe046be57ff3425daafc
+      internalID: 1108799767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 211
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd281e4055df840a3c4f8d187f0048
+      internalID: -231059165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 211
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488260784da3a1345ad7eb28f9ae61fc
+      internalID: -2116272994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 150
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b290a4f0ecdf1e94888dc6117fe954d2
+      internalID: -556335658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 151
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd128da119ffba7479da15064e50701b
+      internalID: 1677227127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 150
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6572fc9b25380ac408a2847b165623f5
+      internalID: -778647795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 150
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaf2f7a88f8a9141b59f6086cd18ad7
+      internalID: 912781837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 150
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd3ab34567a2c147815d2e782db7782
+      internalID: -1401511390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 150
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e953a80ee8d87f4585474fa686613a3
+      internalID: -1234540108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 150
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b636ac8f11b73bf42b67faece867321e
+      internalID: -1290474806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 150
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b8e5577804ac94092f1f33094bc328
+      internalID: 689563072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 151
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866136ba6cbc0994c9ba78e626c33910
+      internalID: 1547684544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 151
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824b5bc55ca9c93409e8a11ac1d741fc
+      internalID: 1165273017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 90
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72f8ff77332a0045b2f01ed4dea9d75
+      internalID: 1917456982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 90
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe76455718212749803707b7abb4ae9
+      internalID: 752384222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 90
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b317961437e53244a93e2e930ad1b1b2
+      internalID: 831614446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 90
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe287bf8f5d513f42941ba25cbfc09a0
+      internalID: -605940870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 90
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc5cba68df130a469903e4dbc8c6150
+      internalID: 1366088258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 90
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73366e1304f7efc4f9734a5fad79cddd
+      internalID: 833099146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 90
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369c9e77822a5574b88218d43bb3952d
+      internalID: -574843525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 90
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c56ba7b574ea84469dd7987cab364ab
+      internalID: 1001170010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 90
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf5f15fcb3162b40ab7b20597bcb479
+      internalID: -1328119217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 90
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c429a30403eecb49b6adf13459a25b7
+      internalID: -399235051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 29
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92cc6a6eecc0b647ba27c4dcee8e0a4
+      internalID: 2076642170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 29
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8427f449bc2a46744a0cd0e5689a926f
+      internalID: 1437181889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 29
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721b76f0d0b72194aae796fe99383087
+      internalID: -163243043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 29
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25460000332663747a664ff67ea29e3e
+      internalID: 1836708381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 29
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97059c2aabf8c34a9156cc010849810
+      internalID: -1529550520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 29
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6283666ba2d80fb4f9ae256f8e7c1a5c
+      internalID: -1064211961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 29
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c179c67106c531d42add80311577ed17
+      internalID: -1433935241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 29
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b442f4e01f1e84baffe78de6c79c2f
+      internalID: 878103639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 29
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db037804a05e74b4a9f34e29dcddae58
+      internalID: 406086724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 29
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b3898efc1d5df499dff1ed796205df
+      internalID: -414904975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Coins-removebg-preview_55: -1064211961
+      Coins-removebg-preview_27: 1108799767
+      Coins-removebg-preview_59: -414904975
+      Coins-removebg-preview_17: -1293546770
+      Coins-removebg-preview_22: -1882399264
+      Coins-removebg-preview_56: -1433935241
+      Coins-removebg-preview_16: 1370166096
+      Coins-removebg-preview_19: 623044676
+      Coins-removebg-preview_29: -2116272994
+      Coins-removebg-preview_45: 833099146
+      Coins-removebg-preview_47: 1001170010
+      Coins-removebg-preview_8: 523967767
+      Coins-removebg-preview_34: -1401511390
+      Coins-removebg-preview_44: 1366088258
+      Coins-removebg-preview_40: 1917456982
+      Coins-removebg-preview_5: -599284923
+      Coins-removebg-preview_30: -556335658
+      Coins-removebg-preview_12: -611636647
+      Coins-removebg-preview_46: -574843525
+      Coins-removebg-preview_50: 2076642170
+      Coins-removebg-preview_23: 630539852
+      Coins-removebg-preview_54: -1529550520
+      Coins-removebg-preview_58: 406086724
+      Coins-removebg-preview_25: -1125972585
+      Coins-removebg-preview_39: 1165273017
+      Coins-removebg-preview_43: -605940870
+      Coins-removebg-preview_0: 2004165995
+      Coins-removebg-preview_6: -1955969271
+      Coins-removebg-preview_53: 1836708381
+      Coins-removebg-preview_15: 700021324
+      Coins-removebg-preview_10: 136636277
+      Coins-removebg-preview_28: -231059165
+      Coins-removebg-preview_26: 1618178649
+      Coins-removebg-preview_33: 912781837
+      Coins-removebg-preview_2: 2064905634
+      Coins-removebg-preview_37: 689563072
+      Coins-removebg-preview_1: -150754269
+      Coins-removebg-preview_24: 731426489
+      Coins-removebg-preview_9: 281254233
+      Coins-removebg-preview_18: 1841513225
+      Coins-removebg-preview_13: 1092848169
+      Coins-removebg-preview_32: -778647795
+      Coins-removebg-preview_48: -1328119217
+      Coins-removebg-preview_14: -910507189
+      Coins-removebg-preview_7: -1926942073
+      Coins-removebg-preview_36: -1290474806
+      Coins-removebg-preview_52: -163243043
+      Coins-removebg-preview_21: 389414665
+      Coins-removebg-preview_49: -399235051
+      Coins-removebg-preview_31: 1677227127
+      Coins-removebg-preview_42: 831614446
+      Coins-removebg-preview_57: 878103639
+      Coins-removebg-preview_38: 1547684544
+      Coins-removebg-preview_41: 752384222
+      Coins-removebg-preview_3: 1120284305
+      Coins-removebg-preview_11: 1379765452
+      Coins-removebg-preview_4: 1262744956
+      Coins-removebg-preview_35: -1234540108
+      Coins-removebg-preview_20: -1969048938
+      Coins-removebg-preview_51: 1437181889
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
